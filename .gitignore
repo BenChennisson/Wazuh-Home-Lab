@@ -1,0 +1,8 @@
+.vagrant/
+*.box
+*.vdi
+*.vmdk
+*.iso
+*.log
+wazuh-credentials.txt
+.env
